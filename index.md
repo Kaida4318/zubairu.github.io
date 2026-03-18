@@ -16,20 +16,10 @@ Developed a multi-class classification model using SVM (RBF Kernel) to predict o
 
 Achieved 73% accuracy, overcoming linear classification barriers identified through baseline Logistic Regression.
 
-View Repository
+https://github.com/Kaida4318/sowing-success-crop-prediction.git
 
-🐼 30 Days of Pandas & Visualization
-A documented technical journey mastering data manipulation and storytelling.
-
-Focused on transforming raw economic and agricultural datasets into actionable insights.
-
-Follow the Series on LinkedIn
 
 💼 Professional Experience
-ICT Officer | Green Voice for Energy Initiative (2025 – Present)
-
-Leading digital strategy and data-driven initiatives for sustainable energy projects.
-
 Data Analysis Intern | Cosmopolitan University Abuja (Remote)
 
 Performing complex data cleaning and visualization tasks to support institutional research.
