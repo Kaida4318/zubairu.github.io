@@ -7,7 +7,7 @@
 <body>
 
 <h1>👨‍💻 Muhammad Zubairu Rabi’u</h1>
-<p><strong> Data Analyst | Data Science Student | Aspiring Machine Learning Engineer |r</strong></p>
+<p><strong> Data Analyst | Data Science Student | Aspiring Machine Learning Engineer |</strong></p>
 <p>B.Sc. Data Science, Al-Farabi Kazakh National University (KazNU)</p>
 
 <hr>
