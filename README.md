@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Muhammad Zubairu Rabi’u</title>
     <link rel="stylesheet" href="style.css">
 </head>
 
