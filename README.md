@@ -5,7 +5,8 @@
 </head>
 
 <body>
-
+<img src="![Uploading IMG_3943-Edit-2-Edit-Edit_1.jpg…]()
+" width="150" style="border-radius: 50%;">
 <h1>👨‍💻 Muhammad Zubairu Rabi’u</h1>
 <p><strong> Data Analyst | Data Science Student | Aspiring Machine Learning Engineer |</strong></p>
 <p>B.Sc. Data Science, Al-Farabi Kazakh National University (KazNU)</p>
